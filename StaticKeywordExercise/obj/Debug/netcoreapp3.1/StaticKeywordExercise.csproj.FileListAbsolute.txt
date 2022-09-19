@@ -1,0 +1,14 @@
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\netcoreapp3.1\StaticKeywordExercise.exe
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\netcoreapp3.1\StaticKeywordExercise.deps.json
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\netcoreapp3.1\StaticKeywordExercise.runtimeconfig.json
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\netcoreapp3.1\StaticKeywordExercise.runtimeconfig.dev.json
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\netcoreapp3.1\StaticKeywordExercise.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\netcoreapp3.1\StaticKeywordExercise.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.csproj.AssemblyReference.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.AssemblyInfoInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.AssemblyInfo.cs
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.csproj.CoreCompileInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\netcoreapp3.1\StaticKeywordExercise.genruntimeconfig.cache
